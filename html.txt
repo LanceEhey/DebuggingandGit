@@ -1,0 +1,13 @@
+</html>
+<!-- another-page-->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Basic Another Example</title>
+</head>
+<body>
+    <h1 style="color: green;">GeeksforGeeks</h1>
+    <h2>Basic Another Page Example</h2>
+</body>
+</html>
+;jk
